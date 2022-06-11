@@ -1,5 +1,7 @@
 # COTS-Detection-using-Efficient-Det-D1-in-TFOD-2.0-using-Tensorflow-great-brief-barrier-reef-dataset
 
+<h1><b>This project is still work on progress</b></h1>
+
 I had tried this project on EfficientDet D1 in TFOD 2.0 api. I had followed many notebooks, discussion, and blogs. I had used almost 7 types of Bounding box augmentation here. The notebooks I had followed for this:<br>
 1) https://www.kaggle.com/code/khanhlvg/cots-detection-w-tensorflow-object-detection-api <br>
 2)https://www.kaggle.com/code/ravishah1/cots-faster-rcnn-training-w-tf-2-0-od-api-0-474/notebook <br>
