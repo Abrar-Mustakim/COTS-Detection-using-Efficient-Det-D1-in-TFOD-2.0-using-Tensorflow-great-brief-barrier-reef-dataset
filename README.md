@@ -24,4 +24,4 @@ Blog I followed:<br>
 I had already download the dataset to my google drive and mount the drive here<br>
 
 Output: 
-<img src="https://github.com/Abrar-Mustakim/COTS-Detection-using-Efficient-Det-D1-in-TFOD-2.0-using-Tensorflow-great-brief-barrier-reef-dataset/blob/main/Coral_1.gif?raw=true">
+<img src="Coral_1.gif"></img>
